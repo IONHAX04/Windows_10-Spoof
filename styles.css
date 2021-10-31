@@ -1,0 +1,74 @@
+*
+{
+	color: white;	
+}
+
+.search
+{
+	width: 300px;
+	margin-bottom: 2%;
+}
+
+.win-logo
+{
+	height: 50px;
+	width: 50px;
+}
+.icons
+{
+	justify-content: center;
+}
+.icon1
+{
+	padding-right: 5px;
+	width: 60px;
+	height: 60px;
+	align-items: center;
+	z-index: 100;
+}
+
+.icons a
+{
+	text-decoration-line: none;
+}
+.footer1
+{
+	background-color: black;
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+	height: 55px;
+	box-shadow: 0 0 3px rgba(0, 0, 0, 1.2);
+	background-color:  black;
+	display: flex;
+	overflow-x: auto;
+	justify-content: right;
+	justify-self: flex-end;
+}
+
+.footer2
+{
+	background-color: black;
+	align-items: right;
+	position: right 16px;
+	bottom: 0;
+	width: 55%;
+	height: 55px;
+	box-shadow: 0 0 3px rgba(0, 0, 0, 1.2);
+	background-color:  black;
+	display: flex;
+	overflow-x: auto;
+}
+
+
+.bgimg
+{
+	z-index: -1;
+	height: 100%;
+	width: 100%;
+	position: absolute;
+}
+.menu
+{
+	background-color: yellow;
+}

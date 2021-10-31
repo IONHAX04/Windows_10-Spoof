@@ -1,0 +1,41 @@
+*
+{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+body
+{
+	height: 100vh;
+	width: 100%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background: linear-gradient(to right, #3f5efb,#fc466b);
+}
+
+form
+{
+	width: 25rem;
+	height: 25rem;
+	display: flex;
+	flex-direction: column;
+	border-radius: 30px;
+	justify-content: center;
+	align-items: center;
+}
+.header-edge
+{
+	margin: 100;
+}
+
+.head-st
+{
+	height: 30px;
+	justify-content: center;
+	align-content: right;
+}
+button
+{
+
+}
